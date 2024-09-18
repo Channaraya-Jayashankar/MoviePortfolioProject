@@ -1,4 +1,4 @@
-# Movie Correlation Analysis Project 🎬
+# Movie Correlation Analysis 🎬
 
 ## Overview
 
